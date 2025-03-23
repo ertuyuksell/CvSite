@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MvcCv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|c:\\users\\user\\source\\repos\\mvccv\\mvccv\\controllers\\egitimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\controllers\\egitimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|c:\\users\\user\\source\\repos\\mvccv\\mvccv\\controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|c:\\users\\user\\source\\repos\\mvccv\\mvccv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|c:\\users\\user\\source\\repos\\mvccv\\mvccv\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|C:\\Users\\user\\source\\repos\\MvcCv\\mvccv\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|C:\\Users\\user\\source\\repos\\MvcCv\\mvccv\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|C:\\Users\\user\\source\\repos\\MvcCv\\mvccv\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C879AF0F-A8BA-4717-AF46-D19CF8EF0D3A}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EgitimController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Controllers\\EgitimController.cs",
+              "RelativeDocumentMoniker": "MvcCv\\Controllers\\EgitimController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Controllers\\EgitimController.cs",
+              "RelativeToolTip": "MvcCv\\Controllers\\EgitimController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:39:43.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IletisimController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Controllers\\IletisimController.cs",
+              "RelativeDocumentMoniker": "MvcCv\\Controllers\\IletisimController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Controllers\\IletisimController.cs",
+              "RelativeToolTip": "MvcCv\\Controllers\\IletisimController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:39:37.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcCv\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcCv\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:39:36.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T21:24:25.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Web.config",
+              "RelativeDocumentMoniker": "MvcCv\\Web.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Web.config",
+              "RelativeToolTip": "MvcCv\\Web.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-17T12:02:36.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MvcCv\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MvcCv\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:01:27.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MvcCv\\MvcCv\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T11:01:23.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
